@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+  }
+  .mar{
+     border-style: double;
+     border-width: 5px;
+     width:inherit;
+  }
+  .fur{
+    text-align: center;
+    
+  }
+  .container {
+    width: 500px;
+    clear: both;
+  }
+  
+  .container input {
+    width: 100%;
+    clear: both;
+  }
